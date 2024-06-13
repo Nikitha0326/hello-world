@@ -31,7 +31,8 @@
                 <url>http://3.101.139.12:8080/manager/text</url>
                 <server>TomcatServer</server>
                 <path>/helloworld-webapp</path>
-                  </configuration>
+             </configuration>
+         </plugin>
 
     </plugins>
   </build>
